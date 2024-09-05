@@ -1,7 +1,6 @@
 # Software Engineering
 
-This repo contains the python notebooks for the lab exercises of the course "Software Engineering", 
-which is part of the ECE-NTUA undergraduate program (7nth semester).
+This repo contains the code for the semester project of the course "Software Engineering", which is part of the ECE-NTUA undergraduate program (7nth semester).
 
 Course Description
 
